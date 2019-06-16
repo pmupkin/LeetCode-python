@@ -28,5 +28,7 @@ class Solution:
 
         return 
         
+		#最后一步的排列子序列可以用下面一行代码
+		#nums[i:] = reversed(nums[i:])
             
             
